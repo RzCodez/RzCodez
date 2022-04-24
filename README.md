@@ -5,13 +5,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzcodez" alt="rzcodez" /></a> </p>
 
-<p align="center">
-🌱 I’m currently learning Javascript!
-  
-👨‍💻 All of my projects are available at [ramadityo.github.io](ramadityo.github.io)
-  
-💬 Ask me about **Web Animation**
-</p>
+1. 🌱 I’m currently learning Javascript! 
+2. 👨‍💻 All of my projects are available at [ramadityo.github.io](ramadityo.github.io)
+3. 💬 Ask me about **Web Animation**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
