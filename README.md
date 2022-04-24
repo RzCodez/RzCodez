@@ -7,7 +7,9 @@
 
 <p align="center">
 🌱 I’m currently learning Javascript!
+  
 👨‍💻 All of my projects are available at [ramadityo.github.io](ramadityo.github.io)
+  
 💬 Ask me about **Web Animation**
 </p>
 
